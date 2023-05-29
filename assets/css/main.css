@@ -183,7 +183,11 @@
 
 @media (max-width: 575px) {
     .header {
-        height: 128px;
+        height: 96px;
+    }
+
+    .under-header {
+        height: 96px;
     }
 }
 
