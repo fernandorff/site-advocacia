@@ -183,7 +183,7 @@
 
 @media (max-width: 575px) {
     .header {
-        height: 70px;
+        height: 128px;
     }
 }
 
@@ -194,7 +194,7 @@
 
 .header .logo img {
     max-height: 96px;
-    margin-right: 8px;
+    max-width: 80%;
 }
 
 .header .logo h1 {
