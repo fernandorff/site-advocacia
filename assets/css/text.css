@@ -28,7 +28,3 @@ hr {
 .horizontal-list li a:hover {
     color: var(--color-primary);
 }
-
-.horizontal-list li a:active {
-    color: var(--primary-red);
-}
