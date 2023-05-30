@@ -1,0 +1,34 @@
+.justify-text {
+    text-align: justify;
+    text-justify: auto;
+}
+
+.paragraph-spacing {
+    line-height: 1.5;
+}
+
+hr {
+    color: #00000025;
+}
+
+.horizontal-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.horizontal-list li {
+    margin: 0 16px;
+}
+
+.horizontal-list li a {
+    color: #eee;
+}
+
+.horizontal-list li a:hover {
+    color: var(--color-primary);
+}
+
+.horizontal-list li a:active {
+    color: var(--primary-red);
+}
