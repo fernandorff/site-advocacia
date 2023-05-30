@@ -31,6 +31,13 @@
     color: var(--color-primary);
 }
 
+@media (max-width: 767px) {
+    [data-aos] {
+        opacity: 1 !important;
+        transform: none !important;
+    }
+}
+
 /*--------------------------------------------------------------
 # whatsapp button
 --------------------------------------------------------------*/
@@ -119,7 +126,7 @@
 }
 
 .under-header {
-    height: 120px;
+    height: 128px;
 }
 
 @media (max-width: 575px) {
