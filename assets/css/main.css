@@ -59,6 +59,35 @@
     line-height: 0;
 }
 
+.language-button-uk {
+    position: fixed;
+    right: 16px;
+    top: 16px;
+    z-index: 99999;
+    width: 24px;
+    height: 16px;
+    transition: 0.4s all ease-in-out;
+    object-fit: fill;
+}
+
+.language-button-br {
+    position: fixed;
+    right: 48px;
+    top: 16px;
+    z-index: 99999;
+    width: 24px;
+    height: 16px;
+    transition: 0.4s all ease-in-out;
+    object-fit: fill;
+}
+
+
+.language-button-1 i {
+    font-size: 36px;
+    color: #fff;
+    line-height: 0;
+}
+
 .soft-border {
     border: solid 1px black;
     border-radius: 5px;
