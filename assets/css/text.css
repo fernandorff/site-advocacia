@@ -28,3 +28,15 @@ hr {
 .horizontal-list li a:hover {
     color: var(--color-primary);
 }
+
+p {
+    margin: 0;
+}
+
+.primary-font {
+    font-family: var(--font-primary);
+}
+
+.no-border-radius {
+    border-radius: 0;
+}
